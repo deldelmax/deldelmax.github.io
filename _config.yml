@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Maksym Del # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Maksym
 middle_name:
 last_name: Del
@@ -85,7 +85,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # -----------------------------------------------------------------------------
 
 blog_name:  # your blog must have a name for it to show up in the nav bar
-blog_description: blog about AI and life around it
+blog_description: blog about AI and other sciences
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -111,10 +111,10 @@ collections:
   news:
     defaults:
       layout: post
-    output: false
+    output: true
     permalink: /news/:path/
   projects:
-    output: false
+    output: true
     permalink: /projects/:path/
 
  news_limit: 5
