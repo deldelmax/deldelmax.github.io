@@ -10,9 +10,9 @@ profile:
   address: >
     <p>Full name: Maksym Del</p>
     <p>Role: PhD Student & Junior Research Fellow</p>
-    <p>Group: [Natural Language Processing](http://tartunlp.ai)</p>
-    <p>Affiliation: University of Tartu<\p>
-
+    <p>Group: <a href="http://tartunlp.ai">Tartu NLP</a></p>
+    <p>Place: University of Tartu</p>
+ 
 news: False  # includes a list of news items
 selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page

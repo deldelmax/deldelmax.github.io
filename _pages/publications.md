@@ -2,12 +2,14 @@
 layout: page
 permalink: /publications/
 title: publications
-description: See more on [my Google Scholar](https://scholar.google.com/citations?user=EbtrluQAAAAJ&hl=en&authuser=3).
-years: [2017, 2018, 2019, 2021]
+description: A growing collection of the research papers I published. Also see my Google Scholar <a href="https://scholar.google.com/citations?user=EbtrluQAAAAJ&hl=en&authuser=3">profile</a>.
+years: [2021, 2021, 2020, 2019, 2018, 2017]
 nav: true
 ---
 <!-- _pages/publications.md -->
 <div class="publications">
+
+See more on [my Google Scholar](https://scholar.google.com/citations?user=EbtrluQAAAAJ&hl=en&authuser=3).
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>

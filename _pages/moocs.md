@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /moocs/
-title: MOOCs
-description: Some of the Massive Open Online Courses I took.
+title: moocs
+description: Massive Open Online Courses (MOOCs) I took.
 nav: True
 ---
 
