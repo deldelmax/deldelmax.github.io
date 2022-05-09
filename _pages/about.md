@@ -12,7 +12,6 @@ profile:
     <p>Role: PhD Student & Junior Research Fellow</p>
     <p>Group: [Natural Language Processing](http://tartunlp.ai)</p>
     <p>Affiliation: University of Tartu<\p>
-    <p></p>
 
 news: False  # includes a list of news items
 selected_papers: False # includes a list of papers marked as "selected={true}"
