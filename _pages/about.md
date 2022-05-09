@@ -8,6 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
+    <p>Full name: Maksym Del</p>
+    <p>Role: PhD Student & Junior Research Fellow</p>
+    <p>Group: [Natural Language Processing](http://tartunlp.ai)</p>
+    <p>Affiliation: University of Tartu<\p>
     <p></p>
 
 news: False  # includes a list of news items
