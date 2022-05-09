@@ -5,7 +5,7 @@ permalink: /
 subtitle: 
 
 profile:
-  align: right
+  align: center
   image: prof_pic.jpg
   address: >
     <p></p>
