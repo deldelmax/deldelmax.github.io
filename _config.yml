@@ -2,21 +2,21 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: deldelmax # the website title (if blank, full name will be used instead)
+title: Maksym Del # the website title (if blank, full name will be used instead)
 first_name: Maksym
 middle_name:
 last_name: Del
-email: max.del.edu@example.com
+email: max.del.edu@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My personal website.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+#  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+#  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+#  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: reiforcement-learning, natural-language-processing, machine-learning, deep-learning, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: Δ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ∇∇ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://deldelmax.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -73,7 +73,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  The best way to reach me is through email.
+# aa
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -85,7 +85,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # -----------------------------------------------------------------------------
 
 blog_name: deldelmax  # your blog must have a name for it to show up in the nav bar
-blog_description: my blog about AI and life around it
+blog_description: blog about AI and life around it
 permalink: /blog/:year/:title/
 
 # Pagination
