@@ -22,8 +22,12 @@ Greetings!
 
 My name is Maksym Del. 
 
-I am a Deep Learning Ph.D. student at the University of Tartu's [NLP group](http://tartunlp.ai). 
+I am a Deep Learning Ph.D. student and Junior Research Fellow at the University of Tartu's [NLP group](http://tartunlp.ai). 
+
+Currently I am involved in Domain Adaptation workpackage for the [Bergamot](https://browser.mt/) project.
 
 I also hold a master's degree in Data Science from the University of Tartu and a bachelor's in Software Engineering from Igor Sikorsky Kyiv Polytechnic Institute.
+
+On the practical side, I am involved in the [Bergamot](https://browser.mt/) project and contributed to [Neurotolge](https://neurotolge.ee/).
 
 See the links to my social profiles below.
