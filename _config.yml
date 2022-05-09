@@ -16,7 +16,7 @@ footer_text: >
 keywords: reiforcement-learning, natural-language-processing, machine-learning, deep-learning, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ∇∇ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ∇ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://deldelmax.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -84,13 +84,13 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: deldelmax  # your blog must have a name for it to show up in the nav bar
+blog_name:  # your blog must have a name for it to show up in the nav bar
 blog_description: blog about AI and life around it
 permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 # Comments
 disqus_shortname: al-folio # put your disqus shortname
