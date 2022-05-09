@@ -6,16 +6,16 @@ description: Massive Open Online Courses (MOOCs) I took.
 nav: True
 ---
 
-| Course | Institution | Platform | Date | Certificate |
+| Course | Institution | Platform | Year | Certificate |
 |:---:|:----:|:------:|:------:|:------:|
-|  Natural Language Processing with Deep Learning | Stanford University | [CS224n](http://web.stanford.edu/class/cs224n/) | Summer 2018 | Audit | 
-|  Convolutional Neural Networks for Visual Recognition | Stanford University | [CS231n](http://cs231n.stanford.edu/) | Winter 2018 | Audit |
-|  Neural Networks and Deep Learning | Stanford University | Coursera | August 2017 | [Link](https://www.coursera.org/account/accomplishments/certificate/JSMDJTK26DVQ) |
-|  Introduction to Probability - The Science of Uncertainty | MIT | edX | Winter 2016 | Audit |
-|  Machine Learning | Stanford University | Coursera | Spring 2015 | Audit |
-|  Machine Learning Foundations | University of Washington | Coursera | Spring 2015 | [Link](https://www.coursera.org/account/accomplishments/certificate/VQSF6KNCW5UD) |
+|  Natural Language Processing with Deep Learning | Stanford University | [CS224n](http://web.stanford.edu/class/cs224n/) | 2018 | Audit | 
+|  Convolutional Neural Networks for Visual Recognition | Stanford University | [CS231n](http://cs231n.stanford.edu/) | 2018 | Audit |
+|  Neural Networks and Deep Learning | Stanford University | Coursera | 2017 | [Link](https://www.coursera.org/account/accomplishments/certificate/JSMDJTK26DVQ) |
+|  Introduction to Probability - The Science of Uncertainty | MIT | edX | 2016 | Audit |
+|  Machine Learning | Stanford University | Coursera | 2015 | Audit |
+|  Machine Learning Foundations | University of Washington | Coursera | 2015 | [Link](https://www.coursera.org/account/accomplishments/certificate/VQSF6KNCW5UD) |
 |  The Analytics Edge | MIT | edX | Winter 2015 | [Link](https://s3.amazonaws.com/verify.edx.org/downloads/dedacbc7232e44528acd8f968aaebc7e/Certificate.pdf) |
-|  Systematic Program Design | University of British Columbia | edX | Summer 2015 | [Link](https://s3.amazonaws.com/verify.edx.org/downloads/1417b77347404dc5ad5f9cc6baffb751/Certificate.pdf) |
+|  Systematic Program Design | University of British Columbia | edX | 2015 | [Link](https://s3.amazonaws.com/verify.edx.org/downloads/1417b77347404dc5ad5f9cc6baffb751/Certificate.pdf) |
 
 
 
