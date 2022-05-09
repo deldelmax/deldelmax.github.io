@@ -28,4 +28,4 @@ I also hold a master's degree in Data Science from the University of Tartu and a
 
 On the practical side, I am involved in the [Bergamot](https://browser.mt/) project and contributed to [Neurotolge](https://neurotolge.ee/).
 
-I think about AI specifically and its intersections with other disciplines.
+I think about AI and its intersections with other disciplines.
