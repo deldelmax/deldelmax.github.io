@@ -264,8 +264,10 @@ footer.fixed-bottom {
   // padding-bottom: 8px;
   // font-size: 0.75rem;
 
+  background-color: var(--global-bg-color);
   font-size: 0.75rem;
   .container {
+    color: var(--global-bg-color);
     padding-top: 9px;
     padding-bottom: 8px;
   }
