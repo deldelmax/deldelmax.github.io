@@ -6,9 +6,9 @@ description: Massive Open Online Courses (MOOCs) I took.
 nav: True
 ---
 
-| Course | Institution | Platform | &nbsp;Year&nbsp; | &nbsp;Certificate&nbsp; |
+| Course | Institution | Platform | Year | &nbsp;Certificate&nbsp; |
 |:---:|:----:|:------:|:------:|:------:|
-|  Natural Language Processing with Deep Learning | &nbsp;Stanford University&nbsp; | [CS224n](http://web.stanford.edu/class/cs224n/) | 2018 | Audit | 
+|  Natural Language Processing with Deep Learning | &nbsp;Stanford University&nbsp; | [CS224n](http://web.stanford.edu/class/cs224n/) | &nbsp;2018&nbsp; | Audit | 
 |  Convolutional Neural Networks for Visual Recognition | Stanford University | [CS231n](http://cs231n.stanford.edu/) | 2018 | Audit |
 |  Neural Networks and Deep Learning | Stanford University | Coursera | 2017 | [Link](https://www.coursera.org/account/accomplishments/certificate/JSMDJTK26DVQ) |
 |  Introduction to Probability - The Science of Uncertainty | MIT | edX | 2016 | Audit |
