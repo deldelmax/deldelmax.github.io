@@ -22,7 +22,7 @@ I am a last-year Ph.D. student, and Junior Research Scientist at the University 
 
 Before that, I got a master's with a focus in Machine Learning from the University of Tartu (Estonia) and a bachelor's in Software Engineering from Igor Sikorsky Kyiv Polytechnic Institute (Ukraine).
 
-<b>NLP INTERNSHIP:</b>
+<b style="color:red">NLP INTERNSHIP:</b>
 <hr>
 
 I am <b>graduating</b> in 2023 and looking for the <b>NLP Research Internship!</b> <br />
@@ -31,7 +31,7 @@ I am <b>graduating</b> in 2023 and looking for the <b>NLP Research Internship!</
 * Speaking of Research Engineering, I am fluent in the PyTorch ecosystem and have a Software Engineering Bachelor's degree. <br />
 * Please write to `maksym.del @ gmail.com` so I can send you my full CV. 
 
-<b>SEPTEMBER NEWS:</b>
+<b style="color:green">SEPTEMBER NEWS:</b>
 <hr>
 
 * Sep 2022: Guest talk at Google Research (Zurich, Switzerland)
