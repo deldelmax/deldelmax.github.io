@@ -30,7 +30,7 @@ Before that, I got a master's with a focus in Machine Learning from the Universi
 
 <b style="color:red">NLP INTERNSHIP:</b>
 * I am <b>graduating</b> in 2023 and looking for the <b>NLP Research Internship!</b> <br />
-* My **research interests** include Machine Reasoning and Argumentation, Dialogue Agents, Large LMs, and more. <br />
+* My **research interests** include Machine Reasoning and Argumentation, Commonsense Reasoning, Dialogue Agents, Large LMs, and more. <br />
 * My **favorite research paper** of mine is [this ACL publication](https://drive.google.com/drive/folders/1WE0bRBV5Iv6-tgGXE3c7Bx4lachFhUah?usp=sharing) (to appear at AACL 2022). <br />
 * Speaking of **tech skills**, I am fluent in the PyTorch ecosystem and have a Software Engineering Bachelor's degree. <br />
 * Please write to `maksym.del @ gmail.com` so I can send you my **full CV**. 
