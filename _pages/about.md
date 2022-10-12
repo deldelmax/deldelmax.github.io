@@ -18,19 +18,22 @@ Greetings!
 
 My name is Maksym Del. 
 
-I am a last-year Ph.D. student and Junior Research Scientist at the University of Tartu's [NLP group](http://tartunlp.ai) (Estonia). 
+I am a last-year Ph.D. student, and Junior Research Scientist at the University of Tartu's [NLP group](http://tartunlp.ai) (Estonia) supervised by Mark Fishel. 
 
 Before that, I got a master's with a focus in Machine Learning from the University of Tartu (Estonia) and a bachelor's in Software Engineering from Igor Sikorsky Kyiv Polytechnic Institute (Ukraine).
 
-ATTENTION! (~~IS ALL YOU NEED~~)
+<hr>
+<b>NLP INTERNSHIP:</b>
 
-> I am <b>graduating</b> in 2023 and looking for the <b>NLP Research Internship!</b> <br />
-> * My research interests include Machine Reasoning and Argumentation, Dialogue Agents, Large LMs, and more. <br />
-> * My favorite research paper of mine is my recent ACL [publication](https://drive.google.com/drive/folders/1WE0bRBV5Iv6-tgGXE3c7Bx4lachFhUah?usp=sharing) (to appear at AACL 2022). <br />
-> * Speaking of Research Engineering, I am fluent in the PyTorch ecosystem and have a Software Engineering Bachelor's degree. <br />
-> * Please write to `maksym.del @ gmail.com` so I can send you my full CV. 
+I am <b>graduating</b> in 2023 and looking for the <b>NLP Research Internship!</b> <br />
+* My research interests include Machine Reasoning and Argumentation, Dialogue Agents, Large LMs, and more. <br />
+* My favorite research paper I lead-authored [this ACL publication](https://drive.google.com/drive/folders/1WE0bRBV5Iv6-tgGXE3c7Bx4lachFhUah?usp=sharing) (to appear at AACL 2022). <br />
+* Speaking of Research Engineering, I am fluent in the PyTorch ecosystem and have a Software Engineering Bachelor's degree. <br />
+* Please write to `maksym.del @ gmail.com` so I can send you my full CV. 
 
-RECENT NEWS!
+<hr>
+<b>RECENT NEWS:</b>
+
 * Sep 2022: Guest talk at Google Research (Zurich, Switzerland)
 * Sep 2022: Guest talk at the University of Zurich (Zurich, Switzerland)
 * My first-authored paper is accepted to the AACL 2022! ([PDF link](https://drive.google.com/drive/folders/1WE0bRBV5Iv6-tgGXE3c7Bx4lachFhUah?usp=sharing))
