@@ -18,7 +18,7 @@ Greetings!
 
 My name is Maksym Del. 
 
-I am a last-year ~~Hip Hop Artist~~ Ph.D. student University of Tartu's NLP group (Estonia; supervised by Mark Fishel), and a Junior Research Scintist at [TartuNLP](http://tartunlp.ai). 
+I am a last-year Ph.D. student University of Tartu's NLP group (Estonia; supervised by Mark Fishel), and a Junior ~~Hip Hop Artist~~ Research Scintist at [TartuNLP](http://tartunlp.ai). 
 
 Before that, I got a master's with a focus in Machine Learning from the University of Tartu (Estonia) and a bachelor's in Software Engineering from Igor Sikorsky Kyiv Polytechnic Institute (Ukraine).
 
