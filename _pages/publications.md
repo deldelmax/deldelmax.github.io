@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: A list of my <b>first-authored</b> research papers.
+description: A growing list of my <b>first-authored</b> research papers.
 years: [2022, 2021, 2019, 2018, 2017]
 nav: true
 ---
