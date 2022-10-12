@@ -18,8 +18,14 @@ Greetings!
 
 My name is Maksym Del. 
 
-I am a Ph.D. student and Junior Research Fellow at the University of Tartu's [NLP group](http://tartunlp.ai) (Estonia). 
+I am a last-year Ph.D. student and Junior Research Scientist at the University of Tartu's [NLP group](http://tartunlp.ai) (Estonia). 
 
-I also hold a master's degree in Data Science from the University of Tartu (Estonia) and a bachelor's in Software Engineering from Igor Sikorsky Kyiv Polytechnic Institute (Ukraine).
+Before that, I got a master's with a focus in Machine Learning from the University of Tartu (Estonia) and a bachelor's in Software Engineering from Igor Sikorsky Kyiv Polytechnic Institute (Ukraine).
 
-My research interests intersect Deep Learning, Natural Language Processing, and related AI disciplines.
+
+My research interests include Machine Reasoning and Argumentation, Dialogue Agents, Large LMs, and RL for NLP.
+
+RECENT NEWS:
+* Sep 2022: Guest talk at Google Research (Zurich, Switzerland)
+* Sep 2022: Guest talk at the University of Zurich (Zurich, Switzerland)
+* Sep 2022: Started the last year of my Ph.D. 
