@@ -20,6 +20,7 @@ nav: true
 <hr>
 </ul>
 
+More on [Semantic Scholar](https://www.semanticscholar.org/author/Maksym-Del/144691634?sort=pub-date) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=EbtrluQAAAAJ&view_op=list_works&sortby=pubdate).
 
 <!-- _pages/publications.md -->
 <div class="publications">
