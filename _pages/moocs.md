@@ -8,6 +8,7 @@ nav: True
 
 | Course | Institution | Platform | Year | Certificate |
 |:---:|:----:|:------:|:------:|:------:|
+|  Deep Reinforcement Learning Nanodegree | Stanford University | [CS224n](http://web.stanford.edu/class/cs224n/) | &nbsp;WIP&nbsp; | [Link](https://github.com/delmaksym/deep-reinforcement-learning-solutions) | 
 |  Natural Language Processing with Deep Learning | Stanford University | [CS224n](http://web.stanford.edu/class/cs224n/) | &nbsp;2018&nbsp; | Audit | 
 |  Convolutional Neural Networks for Visual Recognition | Stanford University | [CS231n](http://cs231n.stanford.edu/) | 2018 | Audit |
 |  Neural Networks and Deep Learning | Stanford University | Coursera | 2017 | [Link](https://www.coursera.org/account/accomplishments/certificate/JSMDJTK26DVQ) |
