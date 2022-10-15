@@ -2,7 +2,7 @@
 layout: page
 permalink: /moocs/
 title: moocs
-description: Massive Open Online Courses (MOOCs) I took.
+description: AI related Massive Open Online Courses (MOOCs) I took.
 nav: True
 ---
 
@@ -18,6 +18,7 @@ nav: True
 |  The Analytics Edge | MIT | edX | 2015 | [Link](https://s3.amazonaws.com/verify.edx.org/downloads/dedacbc7232e44528acd8f968aaebc7e/Certificate.pdf) |
 |  Systematic Program Design | University of British Columbia | edX | 2015 | [Link](https://s3.amazonaws.com/verify.edx.org/downloads/1417b77347404dc5ad5f9cc6baffb751/Certificate.pdf) |
 
+and others on software engeneering.   
 
 
 
