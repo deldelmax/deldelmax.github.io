@@ -29,7 +29,7 @@ Before that, I got a master's with a focus in Machine Learning from the Universi
 * Sep 2022: Guest talk at Google Research (Zurich, Switzerland)!
 * Sep 2022: Guest talk at the University of Zurich (Zurich, Switzerland)!
 <!-- * Sep 2022: The paper about understanding emerging cross-lingual alignment in LLMs is accepted to the AACL 2022! ([link](https://aclanthology.org/2022.aacl-main.15/)) -->
-* Sep 2022: Started the last year of my Ph.D!
+* Sep 2022: Started the last year of a Ph.D!
 <!-- * Aug 2022: The paper about understanding emerging cross-lingual alignment in LLMs is accepted to the AACL 2022! ([link](https://aclanthology.org/2022.aacl-main.15/)) -->
 
 <!-- <b style="color:red">NLP INTERNSHIP:</b>
