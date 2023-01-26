@@ -23,13 +23,13 @@ I am a last-year Ph.D. student University of Tartu's NLP group (Estonia; supervi
 Before that, I got a master's with a focus in Machine Learning from the University of Tartu (Estonia) and a bachelor's in Software Engineering from Igor Sikorsky Kyiv Polytechnic Institute (Ukraine).
 
 <b style="color:green">RECENT NEWS:</b>
-* Dec 2022: New preprint is out! ([paper link](https://arxiv.org/pdf/2212.10114))
-* Nov 2022: Presented a paper at AACL 2022! ([paper link](https://aclanthology.org/2022.aacl-main.15/) 
-* Oct 2022: Presented a paper at BalticHLT! ([paper link](https://arxiv.org/abs/2109.01207))
-* Sep 2022: Guest talk at Google Research (Zurich, Switzerland)
-* Sep 2022: Guest talk at the University of Zurich (Zurich, Switzerland)
+* Dec 2022: New [preprint](https://arxiv.org/pdf/2212.10114) is out!
+* Nov 2022: Presented a [paper](https://aclanthology.org/2022.aacl-main.15/) at AACL 2022 (virtual)! 
+* Oct 2022: Presented a [paper](https://arxiv.org/abs/2109.01207) at BalticHLT (Riga, Latvia)!
+* Sep 2022: Guest talk at Google Research (Zurich, Switzerland)!
+* Sep 2022: Guest talk at the University of Zurich (Zurich, Switzerland)!
 <!-- * Sep 2022: The paper about understanding emerging cross-lingual alignment in LLMs is accepted to the AACL 2022! ([link](https://aclanthology.org/2022.aacl-main.15/)) -->
-* Sep 2022: Started the last year of my Ph.D. 
+* Sep 2022: Started the last year of my Ph.D!
 <!-- * Aug 2022: The paper about understanding emerging cross-lingual alignment in LLMs is accepted to the AACL 2022! ([link](https://aclanthology.org/2022.aacl-main.15/)) -->
 
 <!-- <b style="color:red">NLP INTERNSHIP:</b>
