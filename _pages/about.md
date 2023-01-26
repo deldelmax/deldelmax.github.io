@@ -23,13 +23,14 @@ I am a last-year Ph.D. student University of Tartu's NLP group (Estonia; supervi
 Before that, I got a master's with a focus in Machine Learning from the University of Tartu (Estonia) and a bachelor's in Software Engineering from Igor Sikorsky Kyiv Polytechnic Institute (Ukraine).
 
 <b style="color:green">RECENT NEWS:</b>
-* Dec 2022: New preprint: "True Detective: A Challenging Benchmark for Deep Abductive Reasoning in Foundation Models" ([ling](https://arxiv.org/pdf/2212.10114)). Under review at ACL 2023.
-* Nov 2022: Presented a paper at AACL 2022! The paper is about understanding emerging cross-lingual alignment in LLMs is accepted to the AACL 2022! ([link](https://aclanthology.org/2022.aacl-main.15/)) 
-* Oct 2022: Presented a paper at BalticHLT! The paper is about resolving conflicting evidence in works on interpretation of multilingual LM representations ([paper link](https://arxiv.org/abs/2109.01207))
+* Dec 2022: New preprint: "True Detective: A Challenging Benchmark for Deep Abductive Reasoning in Foundation Models" ([link](https://arxiv.org/pdf/2212.10114)). Under review at ACL 2023.
+* Nov 2022: Presented a paper at AACL 2022! The paper is about understanding emerging cross-lingual alignment in LLMs! ([link](https://aclanthology.org/2022.aacl-main.15/)) 
+* Oct 2022: Presented a paper at BalticHLT! The paper is about analyzing of multilingual LM representations ([link](https://arxiv.org/abs/2109.01207))
 * Sep 2022: Guest talk at Google Research (Zurich, Switzerland)
 * Sep 2022: Guest talk at the University of Zurich (Zurich, Switzerland)
 <!-- * Sep 2022: The paper about understanding emerging cross-lingual alignment in LLMs is accepted to the AACL 2022! ([link](https://aclanthology.org/2022.aacl-main.15/)) -->
 * Sep 2022: Started the last year of my Ph.D. 
+<!-- * Aug 2022: The paper about understanding emerging cross-lingual alignment in LLMs is accepted to the AACL 2022! ([link](https://aclanthology.org/2022.aacl-main.15/)) -->
 
 <!-- <b style="color:red">NLP INTERNSHIP:</b>
 * I am <b>graduating</b> in 2023 and looking for the <b>NLP Research Internship!</b> <br />
